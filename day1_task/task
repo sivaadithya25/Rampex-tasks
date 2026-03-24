@@ -1,0 +1,15 @@
+Task-1
+What is the Range of Short And Int?
+•	Range of Short
+The Range of short is -32768 to 32767.
+•	Range of Int
+The Range of int is -2147483648 to 2147483647.
+  
+Task-2
+What is the purpose of comma in a Print Statement?
+•	Purpose
+Comma is used mostly in System.out.printf(). It is also used to separate two values by passing it as a string.
+  
+Task-3
+Why Classname and Filename should be same in Java?
+In Java, the filename must be the same as the public classname because the Java compiler uses the file name to identify and compile the class.
