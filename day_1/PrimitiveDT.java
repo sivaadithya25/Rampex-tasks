@@ -1,6 +1,6 @@
 
 public class PrimitiveDataTypes {
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         // Primitive data types in Java
         byte myByte = 100; // 8-bit signed integer
         short myShort = 10000; // 16-bit signed integer
