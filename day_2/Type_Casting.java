@@ -13,7 +13,7 @@ public class TypeCasting {
         char ch = 'A';
         int num6 = ch;  
         System.out.println("Char to Integer: " + num6);
-        
+    
     }
     
 }
